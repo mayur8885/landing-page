@@ -1,0 +1,47 @@
+.navbar{
+    background-color: rgb(101, 122, 122);
+    
+}
+.navbar a{
+    color: rgb(182, 192, 200);
+}
+.navbar a:hover{
+    color: white;
+}
+.header {
+    background: url('img/bg-img.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.header .container {
+    height: 100%;
+}
+
+#features {
+    text-align: center;
+    background-color: rgb(89, 142, 142);
+    color: rgb(83, 75, 75);
+}
+
+#features h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#testimonials .testimonial {
+    background: rgb(217, 204, 204);
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#testimonials h2 {
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+}
